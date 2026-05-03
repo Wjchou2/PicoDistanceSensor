@@ -12,7 +12,7 @@ The mean code is a while loop, which runs a method called detect_dist(), updates
 
 # Demo and Images
 
-<a href="https://wokwi.com/projects/462961135931828225">Try live demo here!</a>  
+<a href="https://wokwi.com/projects/462980776891057153">Try live demo here!</a>  
   
 
 <img width="500"  alt="Screenshot 2026-05-02 at 11 42 17 PM" src="https://github.com/user-attachments/assets/d3dc0611-0585-4299-9121-7b05677eeda0" />
